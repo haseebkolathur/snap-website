@@ -1,0 +1,24 @@
+*{
+  font-family: "epilogueregular" ;
+  padding: 0%;
+  margin: 0%;
+  list-style: none;
+}
+
+@font-face {
+  font-family: 'epilogueitalic';
+  src: url('./assets/fonts/epilogue-italic-variablefont_wght.woff2') format('woff2'),
+       url('./assets/fonts/epilogue-italic-variablefont_wght.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'epilogueregular';
+  src: url('./assets/fonts/epilogue-variablefont_wght.woff2') format('woff2'),
+       url('./assets/fonts/epilogue-variablefont_wght.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
